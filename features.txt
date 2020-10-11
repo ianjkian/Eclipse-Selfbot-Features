@@ -56,13 +56,14 @@ btcstream	Stream current btc price
 pfpsteal (user)	Allows you to steal mentioned user profile picture [Must have password set in config.json file]
 blank	Turns your name and profile picture blank
 hypesquad (house)	Allows you to change your hypesquad (ie: !hypesquad bravery)
-fakenet (type) [name]	Allows you to spoof connections in your profile (ie: !fakenet skype Alucard)
+fakenet (type) [name]	Allows you to spoof connections in your profile (ie: !fakenet skype Eclipse)
 steal-all-pfp	Steal all the pfps in the server
 stream (message)	Stream that message in your profile
 watching (message)	Add a watching status with that message in your profile
 listening (message)	Add a listening status with that message in your profile
 game (message)	Add a game status with that message in your profile
-masscon (type) (amount) (name)	Add a big amount of connections to your profile (ie: !masscon skype 5 ALUCARD
+masscon (type) (amount) (name)	Add a big amount of connections to your profile (ie: !masscon skype 5 Eclipse
+
 Fun & Social Commands [18]
 Command	Description
 fox	Random fox image
