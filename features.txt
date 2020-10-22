@@ -1,3 +1,10 @@
+╔══════════════════════════╗
+║   - Eclipse Selfbot -    ║
+╩══════════════════════════╩
+╔══════════════════════════╗
+║     - By Ianjkian -      ║
+╩══════════════════════════╩
+
 General Commands [36]
 Command	Description
 help	Displays this help menu
