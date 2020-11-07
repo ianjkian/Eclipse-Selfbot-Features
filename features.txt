@@ -127,6 +127,7 @@ backup-f	Backup your friends name and discrim
 auto-bump (channel id)	Automatically bump server to disboard.org [Needs the Disboard to be in the server]
 mac (mac)	Lookup a bit of info about a MAC (ie: !mac xx:xx:xx:xx:xx:xx)
 copy	Copies guild channels, categories, voice channels and makes them in a new one
+
 Raiding Commands [9]
 Command	Description
 destroy	Ban, delete roles, delete channels, edit guild info, mass create channels All in one!
