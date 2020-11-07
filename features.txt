@@ -44,7 +44,7 @@ lmgtfy (message)	Use lmgtfy search engine to look-up something
 genname	Generate a random name based on the server members
 911 recreate the 911 bombing ina single message
 
-Picture Commands [10]
+Picture Commands [11]
 Command Description
 supreme (message) Converts message into supreme style logo
 mcachievment [message] Converts message into minecraft achievment
@@ -56,6 +56,7 @@ revav (user)	Reverse avatar the mentioned user profile picture
 communist (user) trurn user into a communist
 snow (user) Makes it snow on there pfp
 deepfry (user) Deepfrys the user
+pornhublogo makes your text a pornhub logo
 
 NSFW Commands [9]
 Command	Description
@@ -83,6 +84,7 @@ watching (message)	Add a watching status with that message in your profile
 listening (message)	Add a listening status with that message in your profile
 game (message):	Add a game status with that message in your profile
 masscon (type) (amount) (name)	Add a big amount of connections to your profile (ie: !masscon skype 5 Eclipse
+guildpfp displays the servers logo
 
 Fun & Social Commands [18]
 Command	Description
