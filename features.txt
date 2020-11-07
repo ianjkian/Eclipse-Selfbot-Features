@@ -45,6 +45,10 @@ tts (message)	Send that message in .wav format, like an audio
 upper (message)	Make your message CAPS
 lmgtfy (message)	Use lmgtfy search engine to look-up something
 genname	Generate a random name based on the server members
+supreme (message) Converts message into supreme style logo
+mcachievment [message] Converts message into minecraft achievment
+darksupreme Converts message into dark styleed supreme style logo
+
 NSFW Commands [9]
 Command	Description
 lesbian	Random lesbian [Anime]
@@ -56,6 +60,7 @@ hentai	Random hentai [Anime]
 feet	Random feet [Anime]
 erofeet	Random erotic feet [Anime]
 anal	Random anal [Anime]
+
 Account Management Commands [12]
 Command	Description
 set-pfp (url)	Set the specified url as profile picture [Must have password set in config.json file]
@@ -68,7 +73,7 @@ steal-all-pfp	Steal all the pfps in the server
 stream (message)	Stream that message in your profile
 watching (message)	Add a watching status with that message in your profile
 listening (message)	Add a listening status with that message in your profile
-game (message)	Add a game status with that message in your profile
+game (message):	Add a game status with that message in your profile
 masscon (type) (amount) (name)	Add a big amount of connections to your profile (ie: !masscon skype 5 Eclipse
 
 Fun & Social Commands [18]
@@ -91,6 +96,7 @@ hug (user)	Hug the mentioned user
 smug (user)	Smug at the mentioned user
 pat (user)	Pat the mentioned user
 kiss (user)	Kiss the mentioned user
+
 Hacking Commands [9]
 Command	Description
 tokeninfo (token)	Display various information about the token
@@ -111,6 +117,7 @@ Encryption & Decryption Commands [2]
 Command	Description
 encode (string)	Encode a string to base64 ascii
 decode (string)	Decode a string from base64 to regular text
+
 Util Commands [7]
 Command	Description
 bitly (link)	Shorten ur link using bitly [Must have bitly api key set in config.json file]
