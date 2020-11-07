@@ -5,7 +5,7 @@
 ║     - By Ianjkian -      ║
 ╩══════════════════════════╩
 
-General Commands [32]
+General Commands [33]
 Command	Description
 help	Displays this help menu
 whois (user)	Displays discord information of the mentioned user
@@ -42,8 +42,9 @@ tts (message)	Send that message in .wav format, like an audio
 upper (message)	Make your message CAPS
 lmgtfy (message)	Use lmgtfy search engine to look-up something
 genname	Generate a random name based on the server members
+911 recreate the 911 bombing ina single message
 
-Picture Commands [7]
+Picture Commands [10]
 Command Description
 supreme (message) Converts message into supreme style logo
 mcachievment [message] Converts message into minecraft achievment
@@ -52,6 +53,9 @@ gay Gayafies the users pfp
 guildicon	Display guild icon
 av (user)	Displays the profile picture of the mentioned user
 revav (user)	Reverse avatar the mentioned user profile picture
+communist (user) trurn user into a communist
+snow (user) Makes it snow on there pfp
+deepfry (user) Deepfrys the user
 
 NSFW Commands [9]
 Command	Description
