@@ -5,14 +5,11 @@
 ║     - By Ianjkian -      ║
 ╩══════════════════════════╩
 
-General Commands [39]
+General Commands [32]
 Command	Description
 help	Displays this help menu
-av (user)	Displays the profile picture of the mentioned user
-revav (user)	Reverse avatar the mentioned user profile picture
 whois (user)	Displays discord information of the mentioned user
 role-hexcode (role)	Displays the hexcode of the specified role
-guildicon	Display guild icon
 roleinfo (role)	Display some info about the specified role
 cls	Clears your console fully
 logout	Logs you out the selfbot
@@ -45,9 +42,16 @@ tts (message)	Send that message in .wav format, like an audio
 upper (message)	Make your message CAPS
 lmgtfy (message)	Use lmgtfy search engine to look-up something
 genname	Generate a random name based on the server members
+
+Picture Commands [7]
+Command Description
 supreme (message) Converts message into supreme style logo
 mcachievment [message] Converts message into minecraft achievment
 darksupreme Converts message into dark styleed supreme style logo
+gay Gayafies the users pfp
+guildicon	Display guild icon
+av (user)	Displays the profile picture of the mentioned user
+revav (user)	Reverse avatar the mentioned user profile picture
 
 NSFW Commands [9]
 Command	Description
