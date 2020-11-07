@@ -5,7 +5,7 @@
 ║     - By Ianjkian -      ║
 ╩══════════════════════════╩
 
-General Commands [36]
+General Commands [39]
 Command	Description
 help	Displays this help menu
 av (user)	Displays the profile picture of the mentioned user
