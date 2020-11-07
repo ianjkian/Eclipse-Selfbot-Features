@@ -70,7 +70,7 @@ feet	Random feet [Anime]
 erofeet	Random erotic feet [Anime]
 anal	Random anal [Anime]
 
-Account Management Commands [12]
+Account Management Commands [13]
 Command	Description
 set-pfp (url)	Set the specified url as profile picture [Must have password set in config.json file]
 btcstream	Stream current btc price
