@@ -106,6 +106,7 @@ hug (user)	Hug the mentioned user
 smug (user)	Smug at the mentioned user
 pat (user)	Pat the mentioned user
 kiss (user)	Kiss the mentioned user
+wiz wizzizz
 
 Hacking Commands [9]
 Command	Description
