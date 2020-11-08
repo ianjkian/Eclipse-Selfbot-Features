@@ -128,7 +128,7 @@ Command	Description
 encode (string)	Encode a string to base64 ascii
 decode (string)	Decode a string from base64 to regular text
 
-Util Commands [7]
+Util Commands [8]
 Command	Description
 bitly (link)	Shorten ur link using bitly [Must have bitly api key set in config.json file]
 tinyurl (link)	Shorten ur link using tinyurl
@@ -137,6 +137,7 @@ backup-f	Backup your friends name and discrim
 auto-bump (channel id)	Automatically bump server to disboard.org [Needs the Disboard to be in the server]
 mac (mac)	Lookup a bit of info about a MAC (ie: !mac xx:xx:xx:xx:xx:xx)
 copy	Copies guild channels, categories, voice channels and makes them in a new one
+ping shows bots ping
 
 Raiding Commands [9]
 Command	Description
